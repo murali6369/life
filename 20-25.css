@@ -1,0 +1,23 @@
+header{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: #353935;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 50px;
+
+}
+
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    float: left;
+    margin-left: 120px;
+}
+h1{
+    background-color: #353935;
+    color: white;
+    text-align: center;
+}
